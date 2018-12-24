@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Abc"/>
 			<item value="NewCF"/>
 			<item value="cucumberFw"/>
 			<item value="CucumberFm"/>
@@ -9,6 +10,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Abc"/>
 			<item value="NewCF"/>
 			<item value="cfm"/>
 			<item value="Cfm"/>
@@ -25,6 +27,10 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<list key="projectNameTemplate">
