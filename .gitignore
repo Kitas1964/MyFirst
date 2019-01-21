@@ -7,3 +7,5 @@ Abc/.classpath
 /*.xmi/
 *.xmi
 *.log
+.metadata*
+/.metadata*/
