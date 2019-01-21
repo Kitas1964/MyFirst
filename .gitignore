@@ -9,3 +9,5 @@ Abc/.classpath
 *.log
 .metadata*
 /.metadata*/
+Abc/target/classes/META-INF/maven/Abc/Abc/pom.properties
+MyFreeCRM/target/classes/META-INF/maven/FreeCrm/MyFreeCRM/pom.properties
