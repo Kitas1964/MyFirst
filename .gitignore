@@ -2,3 +2,8 @@
 /.recommenders/
 Abc/.classpath
 /.class/
+/.log/
+/*.log/
+/*.xmi/
+*.xmi
+*.log
